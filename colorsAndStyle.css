@@ -1,0 +1,55 @@
+h1 {
+color:green;
+text-align: center;
+font-size: 50px;
+background-color: grey;
+}
+h2 {
+color:red;
+text-align:center;
+}
+p {
+color:aquamarine;
+}
+/*div {
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    padding: 80px;
+    border:10px red;
+}*/
+table{
+    border: 5px solid black;
+    border-collapse: collapse ;
+    width: 50%;
+    text-align: center;
+}
+th, td{
+    border: 1px solid black;
+    padding:10px;
+}
+th{
+    background-color: lightslategrey;
+}
+#top {
+    font-size: 36px;
+    color: red;
+}
+#middle{
+    font-size: 24px;
+}
+#button{
+    font-size: 12px;
+}
+.name {
+    font-weight: bold;
+    color: blue;
+}
+#listota{
+    border: 8px solid black;
+    background-color: lightgray;
+    width: 50%;
+    font-weight: bold;
+    font-size: 34px;
+}
