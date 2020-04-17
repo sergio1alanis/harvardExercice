@@ -4,3 +4,4 @@ const alfa = "constante 10.90 da click aceptar";
 alert(uno);
 alert(dos);
 alert(alfa);
+console.log("Un mensaje mas");
